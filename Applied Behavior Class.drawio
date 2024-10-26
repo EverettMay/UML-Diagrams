@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="CJqJA13BUwWuqL5Z5c8w-1" value="GameManager" style="html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="40" width="330" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
