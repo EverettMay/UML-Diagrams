@@ -1,11 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="954" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="CJqJA13BUwWuqL5Z5c8w-1" value="GameManager" style="html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="40" width="330" height="280" as="geometry" />
+        <mxCell id="CJqJA13BUwWuqL5Z5c8w-1" value="GameStateManager&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;verticalAlign=top;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="320" width="810" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqJA13BUwWuqL5Z5c8w-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Raycast&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 15px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 15px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="720" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqJA13BUwWuqL5Z5c8w-13" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;GameStateManager&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 15px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 15px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="390" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqJA13BUwWuqL5Z5c8w-14" value="SpreadsheetMaker" style="html=1;whiteSpace=wrap;fontSize=30;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1470" y="320" width="610" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqJA13BUwWuqL5Z5c8w-19" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;b&gt;SpreadsheetMaker&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 15px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 15px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1580" y="430" width="200" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
